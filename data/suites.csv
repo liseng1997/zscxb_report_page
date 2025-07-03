@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"简单加法测试","0","test_add[chromium]","testcases.UI.demo","Thu Jul 03 07:26:38 UTC 2025","passed","Thu Jul 03 07:26:38 UTC 2025","","test_building_github_demo","",""
+"","0","test_true[chromium]","testcases.UI.demo","Thu Jul 03 07:26:42 UTC 2025","passed","Thu Jul 03 07:26:42 UTC 2025","","test_building_github_demo","",""
+"","1","test_fail[chromium]","testcases.UI.demo","Thu Jul 03 07:26:46 UTC 2025","failed","Thu Jul 03 07:26:46 UTC 2025","","test_building_github_demo","",""

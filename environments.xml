@@ -1,0 +1,22 @@
+<environments>
+    <parameter>
+        <key>project</key>
+        <value>智算创新部图灵运营自动化测试</value>
+    </parameter>
+    <parameter>
+        <key>author</key>
+        <value>wanglifeng</value>
+    </parameter>
+    <parameter>
+        <key>email</key>
+        <value>wang.lifengb@h3c.com</value>
+    </parameter>
+    <parameter>
+        <key>browser</key>
+        <value>chrome</value>
+    </parameter>
+    <parameter>
+        <key>version</key>
+        <value>v1.0</value>
+    </parameter>
+</environments>
